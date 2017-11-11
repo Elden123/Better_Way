@@ -7,8 +7,16 @@ class Sign_In()
     this.password = document.getElementByID('password').value;
   }
 
-  check
+  check_username()
+  {
 
+  }
+
+  check_password()
+  {
+
+    
+  }
 
 
 
